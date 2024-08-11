@@ -1,1 +1,3 @@
-# covid-19
+# Newsgrid
+
+A demo news website using CSS grid.
